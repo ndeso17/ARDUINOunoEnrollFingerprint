@@ -1,0 +1,2 @@
+# ARDUINOunoEnrollFingerprint
+script arduino
