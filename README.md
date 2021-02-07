@@ -1,2 +1,3 @@
 # ARDUINOunoEnrollFingerprint
-script arduino
+Script Arduino
+Untuk mendaftarkan sidik jari.
